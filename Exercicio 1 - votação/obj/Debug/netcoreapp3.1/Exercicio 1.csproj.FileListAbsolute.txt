@@ -1,0 +1,13 @@
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 1\bin\Debug\netcoreapp3.1\Exercicio 1.exe
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 1\bin\Debug\netcoreapp3.1\Exercicio 1.deps.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 1\bin\Debug\netcoreapp3.1\Exercicio 1.runtimeconfig.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 1\bin\Debug\netcoreapp3.1\Exercicio 1.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 1\bin\Debug\netcoreapp3.1\Exercicio 1.dll
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 1\bin\Debug\netcoreapp3.1\Exercicio 1.pdb
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 1\obj\Debug\netcoreapp3.1\Exercicio 1.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 1\obj\Debug\netcoreapp3.1\Exercicio 1.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 1\obj\Debug\netcoreapp3.1\Exercicio 1.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 1\obj\Debug\netcoreapp3.1\Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 1\obj\Debug\netcoreapp3.1\Exercicio 1.dll
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 1\obj\Debug\netcoreapp3.1\Exercicio 1.pdb
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 1\obj\Debug\netcoreapp3.1\Exercicio 1.genruntimeconfig.cache

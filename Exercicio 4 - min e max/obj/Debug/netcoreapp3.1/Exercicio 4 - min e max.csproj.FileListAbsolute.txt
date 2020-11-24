@@ -1,0 +1,13 @@
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 4 - min e max\obj\Debug\netcoreapp3.1\Exercicio 4 - min e max.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 4 - min e max\obj\Debug\netcoreapp3.1\Exercicio 4 - min e max.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 4 - min e max\obj\Debug\netcoreapp3.1\Exercicio 4 - min e max.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 4 - min e max\obj\Debug\netcoreapp3.1\Exercicio 4 - min e max.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 4 - min e max\bin\Debug\netcoreapp3.1\Exercicio 4 - min e max.exe
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 4 - min e max\bin\Debug\netcoreapp3.1\Exercicio 4 - min e max.deps.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 4 - min e max\bin\Debug\netcoreapp3.1\Exercicio 4 - min e max.runtimeconfig.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 4 - min e max\bin\Debug\netcoreapp3.1\Exercicio 4 - min e max.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 4 - min e max\bin\Debug\netcoreapp3.1\Exercicio 4 - min e max.dll
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 4 - min e max\bin\Debug\netcoreapp3.1\Exercicio 4 - min e max.pdb
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 4 - min e max\obj\Debug\netcoreapp3.1\Exercicio 4 - min e max.dll
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 4 - min e max\obj\Debug\netcoreapp3.1\Exercicio 4 - min e max.pdb
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 4 - min e max\obj\Debug\netcoreapp3.1\Exercicio 4 - min e max.genruntimeconfig.cache

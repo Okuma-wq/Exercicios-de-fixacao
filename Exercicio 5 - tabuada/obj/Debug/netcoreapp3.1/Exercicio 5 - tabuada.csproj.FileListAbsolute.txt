@@ -1,0 +1,13 @@
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 5 - tabuada\bin\Debug\netcoreapp3.1\Exercicio 5 - tabuada.exe
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 5 - tabuada\bin\Debug\netcoreapp3.1\Exercicio 5 - tabuada.deps.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 5 - tabuada\bin\Debug\netcoreapp3.1\Exercicio 5 - tabuada.runtimeconfig.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 5 - tabuada\bin\Debug\netcoreapp3.1\Exercicio 5 - tabuada.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 5 - tabuada\bin\Debug\netcoreapp3.1\Exercicio 5 - tabuada.dll
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 5 - tabuada\bin\Debug\netcoreapp3.1\Exercicio 5 - tabuada.pdb
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 5 - tabuada\obj\Debug\netcoreapp3.1\Exercicio 5 - tabuada.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 5 - tabuada\obj\Debug\netcoreapp3.1\Exercicio 5 - tabuada.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 5 - tabuada\obj\Debug\netcoreapp3.1\Exercicio 5 - tabuada.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 5 - tabuada\obj\Debug\netcoreapp3.1\Exercicio 5 - tabuada.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 5 - tabuada\obj\Debug\netcoreapp3.1\Exercicio 5 - tabuada.dll
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 5 - tabuada\obj\Debug\netcoreapp3.1\Exercicio 5 - tabuada.pdb
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 5 - tabuada\obj\Debug\netcoreapp3.1\Exercicio 5 - tabuada.genruntimeconfig.cache

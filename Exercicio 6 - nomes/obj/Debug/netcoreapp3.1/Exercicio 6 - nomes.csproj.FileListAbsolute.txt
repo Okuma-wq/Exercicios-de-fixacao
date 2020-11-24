@@ -1,0 +1,13 @@
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 6 - nomes\bin\Debug\netcoreapp3.1\Exercicio 6 - nomes.exe
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 6 - nomes\bin\Debug\netcoreapp3.1\Exercicio 6 - nomes.deps.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 6 - nomes\bin\Debug\netcoreapp3.1\Exercicio 6 - nomes.runtimeconfig.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 6 - nomes\bin\Debug\netcoreapp3.1\Exercicio 6 - nomes.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 6 - nomes\bin\Debug\netcoreapp3.1\Exercicio 6 - nomes.dll
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 6 - nomes\bin\Debug\netcoreapp3.1\Exercicio 6 - nomes.pdb
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 6 - nomes\obj\Debug\netcoreapp3.1\Exercicio 6 - nomes.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 6 - nomes\obj\Debug\netcoreapp3.1\Exercicio 6 - nomes.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 6 - nomes\obj\Debug\netcoreapp3.1\Exercicio 6 - nomes.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 6 - nomes\obj\Debug\netcoreapp3.1\Exercicio 6 - nomes.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 6 - nomes\obj\Debug\netcoreapp3.1\Exercicio 6 - nomes.dll
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 6 - nomes\obj\Debug\netcoreapp3.1\Exercicio 6 - nomes.pdb
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 6 - nomes\obj\Debug\netcoreapp3.1\Exercicio 6 - nomes.genruntimeconfig.cache

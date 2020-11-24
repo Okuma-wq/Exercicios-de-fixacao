@@ -1,0 +1,13 @@
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 7 - inversão\bin\Debug\netcoreapp3.1\Exercicio 7 - inversão.exe
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 7 - inversão\bin\Debug\netcoreapp3.1\Exercicio 7 - inversão.deps.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 7 - inversão\bin\Debug\netcoreapp3.1\Exercicio 7 - inversão.runtimeconfig.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 7 - inversão\bin\Debug\netcoreapp3.1\Exercicio 7 - inversão.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 7 - inversão\bin\Debug\netcoreapp3.1\Exercicio 7 - inversão.dll
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 7 - inversão\bin\Debug\netcoreapp3.1\Exercicio 7 - inversão.pdb
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 7 - inversão\obj\Debug\netcoreapp3.1\Exercicio 7 - inversão.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 7 - inversão\obj\Debug\netcoreapp3.1\Exercicio 7 - inversão.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 7 - inversão\obj\Debug\netcoreapp3.1\Exercicio 7 - inversão.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 7 - inversão\obj\Debug\netcoreapp3.1\Exercicio 7 - inversão.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 7 - inversão\obj\Debug\netcoreapp3.1\Exercicio 7 - inversão.dll
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 7 - inversão\obj\Debug\netcoreapp3.1\Exercicio 7 - inversão.pdb
+C:\Users\pedro\Desktop\Projetos\Exercicios de fixação\Exercicio 7 - inversão\obj\Debug\netcoreapp3.1\Exercicio 7 - inversão.genruntimeconfig.cache
