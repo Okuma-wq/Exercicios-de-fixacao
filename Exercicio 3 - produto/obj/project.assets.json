@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 3\\Exercicio 3.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 3 - produto\\Exercicio 3.csproj",
       "projectName": "Exercicio 3",
-      "projectPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 3\\Exercicio 3.csproj",
+      "projectPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 3 - produto\\Exercicio 3.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 3\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 3 - produto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"

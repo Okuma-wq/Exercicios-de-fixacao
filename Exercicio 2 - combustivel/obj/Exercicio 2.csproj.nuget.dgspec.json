@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 2\\Exercicio 2.csproj": {}
+    "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 2 - combustivel\\Exercicio 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 2\\Exercicio 2.csproj": {
+    "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 2 - combustivel\\Exercicio 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 2\\Exercicio 2.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 2 - combustivel\\Exercicio 2.csproj",
         "projectName": "Exercicio 2",
-        "projectPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 2\\Exercicio 2.csproj",
+        "projectPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 2 - combustivel\\Exercicio 2.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 2\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 2 - combustivel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"

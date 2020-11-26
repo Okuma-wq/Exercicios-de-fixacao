@@ -8,6 +8,7 @@ namespace Exercicio_2
         {
             string tipo = "";
             double litros;
+            
 
             Console.WriteLine("--------------------------------------------------------------------------");
             Console.WriteLine("Seja Bem-Vindo!");
@@ -28,46 +29,36 @@ namespace Exercicio_2
             
             double custo = 0;
             
-            double G20litrosOuMenos(double litros){
-                custo = litros * (5.30 - (5.30 * 3/100));
+            double G(double litros){
+                if (litros <= 20)
+                {
+                    custo = litros * (5.30 - (5.30 * 0.03));    
+                } else{
+                custo = litros * (5.30 - (5.30 * 5/100));    
+                }
                 return custo;
             }
 
-            double GMaisDe20litros(double litros){
-                custo = litros * (5.30 - (5.30 * 5/100));
-                return custo;
-            }
-
-            double A20litrosOuMenos(double litros){
-                custo = litros * (4.90 - (4.90 * 4/100));
-                return custo;
-            }
-
-            double AMaisDe20litros(double litros){
-                custo = litros * (4.90 - (4.90 * 6/100));
+            double A(double litros){
+                if (litros <= 20)
+                {
+                custo = litros * (4.90 - (4.90 * 4/100));       
+                } else{
+                custo = litros * (4.90 - (4.90 * 6/100));                    
+                }
                 return custo;
             }
 
             switch (tipo)
             {
                 case "G":
-                    if (litros <= 20)
-                    {
-                        G20litrosOuMenos(litros);
-                    } else{
-                        GMaisDe20litros(litros);
-                    }
-                    
+                    G(litros);                   
                     break;
                 case "A":
-                    if (litros <= 20)
-                    {
-                        A20litrosOuMenos(litros);
-                    } else{
-                        AMaisDe20litros(litros);
-                    }
+                        A(litros);
                     break;
                 default:
+                    Console.WriteLine("Tipo de combustivel inválido");
                     break;
             }
             

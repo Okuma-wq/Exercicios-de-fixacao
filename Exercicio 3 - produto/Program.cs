@@ -33,7 +33,7 @@ namespace Exercicio_3
             }
             if (qtd >10){
                 totalAPagar = total - (total * 5/100);
-                Console.WriteLine("Desconto de 5% na compra de até mais de 10 produtos");
+                Console.WriteLine("Desconto de 5% na compra de mais de 10 produtos");
             }
 
             Console.WriteLine("Total a pagar: " + totalAPagar.ToString("C"));

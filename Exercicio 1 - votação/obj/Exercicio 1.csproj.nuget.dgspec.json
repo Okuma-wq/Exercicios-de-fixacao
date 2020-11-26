@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 1\\Exercicio 1.csproj": {}
+    "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 1 - votação\\Exercicio 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 1\\Exercicio 1.csproj": {
+    "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 1 - votação\\Exercicio 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 1\\Exercicio 1.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 1 - votação\\Exercicio 1.csproj",
         "projectName": "Exercicio 1",
-        "projectPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 1\\Exercicio 1.csproj",
+        "projectPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 1 - votação\\Exercicio 1.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 1\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios de fixação\\Exercicio 1 - votação\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"

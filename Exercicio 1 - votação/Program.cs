@@ -12,7 +12,14 @@ namespace Exercicio_1
             Console.Write("Digite seu ano de nascimento: ");
             int nascimento = int.Parse(Console.ReadLine());
 
-            int idade = atual - nascimento;
+            int idade = 0;
+
+            calcIdade(atual, nascimento);
+
+            int calcIdade(int atual, int nascimento){
+                idade = atual - nascimento;
+                return idade;
+            }
 
             if (idade >= 18)
             {
